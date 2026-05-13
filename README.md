@@ -10,7 +10,7 @@ https://token-insight--solpulse.replit.app
 
 ## 🐦 X / Twitter
 
-https://x.com
+[https://x.com](https://x.com/tanmayyy2122/status/2054551094110618091?s=46)
 
 ## 📊 Powered By
 

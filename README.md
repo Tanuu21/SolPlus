@@ -4,11 +4,11 @@ AI-powered Solana meme coin intelligence platform built using real-time Birdeye 
 
 SOLPLUS transforms raw onchain data into actionable AI-driven intelligence for traders, meme coin hunters, and smart-money trackers.
 
-## 🚀 Live Demo
+## 🚀 Live Demo 
 
 https://token-insight--solpulse.replit.app
 
-## 🐦 X / Twitter
+## 🐦 X / Twitter https://x.com/tanmayyy2122/status/2054551094110618091?s=46
 
 https://x.com
 
